@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-bun install && bun run index.ts
+bun i
 ```
 
 ## Test
